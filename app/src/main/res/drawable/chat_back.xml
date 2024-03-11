@@ -1,0 +1,10 @@
+<!-- chat_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#03A9F4" />
+    <corners android:radius="16dp" />
+    <!-- Border -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black" />
+</shape>
